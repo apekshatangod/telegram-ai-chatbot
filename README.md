@@ -5,11 +5,16 @@ The bot chats naturally with users and can even reply using **Text-to-Speech (TT
 
 ---
 
-## Live Demo
+##  Live Demo
 
-** Bot Link:** [@imafresher_bot](https://t.me/imafresher_bot)
+**Bot Link:** [@imafresher_bot](https://t.me/imafresher_bot)  
 
-** Backend Hosted At:** [https://telegram-ai-chatbot-6pan.onrender.com](https://telegram-ai-chatbot-6pan.onrender.com)
+**Bot Username (to search on Telegram):** `@imafresher_bot`  
+
+**Bot Name:** `apeksha's-bot`  
+
+**Backend Hosted At:** [https://telegram-ai-chatbot-6pan.onrender.com](https://telegram-ai-chatbot-6pan.onrender.com)
+
 
 ---
 
